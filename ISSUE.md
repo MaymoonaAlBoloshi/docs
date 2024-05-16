@@ -25,6 +25,17 @@ feat(web): login UI
 ## User Acceptance Tests (UAT)
 - [ ] list of points that must be done before considering this task as done
 
+## Dependencies 
+The project labels can welcome 2 more labels, both red
+- Blocked: This issue has a dependency 
+- Blocking: This issue is a dependency on another issue
+
+| State   | Task | Note                                                      |
+|---------|------|-----------------------------------------------------------|
+| Blocked | #123 | Data is consumed by XYZ                                   |
+| Blocking| #212 | Need the XYZ from this task so we can proceed with #212   |
+
+
 ## Notes
 *Add any additional notes, comments, or considerations that might be helpful for the team addressing this issue.*
 
