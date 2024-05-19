@@ -1,4 +1,4 @@
-<H1 align="center"> Awesome Project 🥇 </H1>
+<H1 align="center"> The Awesome Project 🥇 </H1>
 <P align="center">This is a sample description of the awesome project, The goal of this project to make the world a happier place by being the template for your projects Readmes, I need more text to make this a bit longer, so from this point nothing will make sence</P>
 <P align="center"> 
   <a href="#"> Figma </a> |
