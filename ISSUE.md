@@ -1,11 +1,9 @@
 
 ## Issue Title 
 *Provide a concise and informative title for the issue.*
-This goes on actual title sections and must be of the following format
-`issue type`(`issue for`): `describe the issue in short`
 Example: 
 ``` bash
-feat(web): login UI
+ login UI
 ```
 
 
